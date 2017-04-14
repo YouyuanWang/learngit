@@ -1,3 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
+一个论文开题助手，输入关键词，利用爬虫从百度学术/谷歌学术/web of science上抓取相关信息，解析获得有效信息，并进行可视化操作，呈现该研究方向的发展趋势，学术机构及相关大牛排名
