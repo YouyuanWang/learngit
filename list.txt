@@ -1,0 +1,79 @@
+5963
+5762
+2684
+72
+54
+44
+29
+17
+0
+Magnetic reconnection
+302
+mhd
+37
+solar wind
+31
+Solar flares
+26
+electrical resistivity
+25
+Diffusion
+24
+Plasma
+23
+turbulence
+21
+Acceleration of particles
+21
+Magnetic flux
+18
+JF Drake
+33
+MA Shay
+22
+M Yamada
+20
+K Shibata
+18
+JT Gosling
+18
+TD Phan
+17
+M Hesse
+17
+M Fujimoto
+17
+D Biskamp
+15
+H Ji
+15
+131
+105
+63
+59
+57
+32
+27
+26
+17
+16
+Chinese Academy of Sciences
+8
+National Astronomical Observatory
+5
+Space Sciences Laboratory, University of California, Berkeley, California, USA
+5
+Kyoto University
+4
+University of Waikato
+4
+Los Alamos National Laboratory
+4
+NASA Goddard Space Flight Center, Greenbelt, Maryland, USA
+4
+Section de Meudon
+3
+University of Tokyo
+3
+University of St. Andrews
+3
