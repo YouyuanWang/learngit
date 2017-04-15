@@ -9,6 +9,8 @@ with open('year_papernumber.txt') as f:
     for line in lines:
         num = filter(str.isdigit,line)
         paper_num.append(int(num))
+min_num = min(paper_num)
+max_num = max(paper_num)
 year = range(1996,2016)
 #print len(year),len(paper_num)
 plt.plot(year,paper_num,'-')
